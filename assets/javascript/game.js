@@ -28,6 +28,7 @@ document.onkeyup = function(event) {
     } else {
         wins++;
         choices = [];
+        remaining = + 10;
     }
 
 
